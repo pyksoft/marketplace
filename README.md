@@ -20,7 +20,6 @@ Comic Culture is a community-oriented two-sided marketplace for pop culture enth
 - **[Coding](#Coding)**
 - **[Optimisations](#Optimisations)**
 - **[Final Product](#FinalProduct)**
-- **[Presentation Slides](#PresentationSlides)**
 
 ## <a id="Problem"></a>Problem
 Comic Culture is currently growing in popularity as the movie and television industry has been using comic-based characters and stories for their shows. As such, there is also an increase in popularity among comic books, graphic novels, toys, collectibles, costumes, clothing and other apparel. However, most online stores that sell these products only sell brand new items. As such the community has been relying on generic two-sided marketplaces such as eBay or gumtree which does not have the expertise or speciality of an online comic culture community who are much familiar with these products.
@@ -454,6 +453,3 @@ One of the issues I had with Heroku was figuring out a way on how I can re-index
 ![](/docs/images/iphonex.png)
 
 ![](/docs/images/desktop.png)
-
-## <a id="PresentationSlides"></a>Presentation Slides
-[Presentation Slides - Comic Culture Marketplace](https://docs.google.com/presentation/d/1o2QC7_ktOCDTBOqADcJkFlx4SGSO1Q2kvIk3gJa8xzs/edit?usp=sharing)
